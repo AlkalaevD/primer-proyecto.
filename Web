@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;
+charset=UTF-8">
+<title>PROYECTO AUXILIAR ANIMAL</title>
+</head>
+<body>
+<header>
+<h1>APP AUXILIAR ANIMAL</h1>
+<img src"img/adopcion.png" alt="adopcion">
+</header>
+<nav>
+<p>FUNDACIONES ASOCIADAS. A la espera de nuevas asociaciones</p>
+</nav>
+<section>
+<h1>aplicación móvil que permita registrar: las ubicaciones, los estados de salud
+actual entre otros, para dar un seguimiento digital a los animales callejeros encontrados y que
+sean aptos para un proceso de adopción.
+Objetivos específicos
+● Evaluar los mecanismos que centralicen la información sobre mascotas encontradas y
+en adopción.
+● Realizar una revisión sobre la relevancia del seguimiento geolocalizado de animales
+callejeros.
+● Dar un uso importante a la geolocalización para encontrar y seguir animales
+callejeros.
+● Rehabilitar y resocializar animales en condiciones de calle 
+● Por medio de entornos digitales a base de datos informativos instruir a las personas
+para el correcto cuidado de las mascotas.</h1>
+</section>
+<article>
+<h2>Aplicación “Auxiliar animal” para concientizar, ubicar, rescatar, ayudar, y reintegrar. Tiene
+como función la de ubicar perros callejeros en la localidad de bosa con el uso de los GPS de
+los teléfonos y también el de abrir un blog dentro de la misma para buscarles un hogar,
+concientizar, ayudar y educar.</h2>
+<p>Mi primera página web, para fomentar el rescate, cuidado y adopcion de animales domesticos callejeros.</p>
+</article>
+<footer>
+<p>JOSE ALEXANDER DURAN MARTINEZ, 28/02/2023.</p>
+<img src"img/adopcion2.png" alt="adopcion2">
+</footer>
+</body>
+</html>
